@@ -3,6 +3,7 @@
     <types>
         <members>CaseTimeCount</members>
         <members>CaseTimeCountTest</members>
+        <members>ChecklistRemoter</members>
         <name>ApexClass</name>
     </types>
 </Package>
